@@ -37,8 +37,8 @@ The maximum possible groupings of adjacent ones are already shown in the figure.
 /* write all the steps invloved */
 
 **PROGRAM**
-
-/*module jkff(j,k,clk,q,qbar);
+```
+module jkff(j,k,clk,q,qbar);
 input j,k,clk;
 output reg q,qbar;
 initial 
@@ -53,7 +53,7 @@ q<=(j&~q)|(~k&q);
 qbar<=~q;
 end
 endmodule
-
+```
 Developed by:BOJA RAJA G RegisterNumber:25015352
 */
 
@@ -61,7 +61,8 @@ Developed by:BOJA RAJA G RegisterNumber:25015352
 <img width="1920" height="1020" alt="Screenshot 2025-10-07 181701" src="https://github.com/user-attachments/assets/1fd9527d-6bc2-4d3c-8981-ae5063badafa" />
 
 **TIMING DIGRAMS FOR FLIP FLOPS**
-<img width="1920" height="1020" alt="Screenshot 2025-10-07 181806" src="https://github.com/user-attachments/assets/fb979b45-b7e1-4abb-a915-67f0a9c47f93" />
+<img width="1921" height="1201" alt="image" src="https://github.com/user-attachments/assets/bf7c5f76-2a38-49f5-9839-e3450ff7b88b" />
+
 
 **RESULTS**
 Thus the given logic functions are implemented using and their operations are verified using Verilog programming.
