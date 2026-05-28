@@ -54,8 +54,9 @@ qbar<=~q;
 end
 endmodule
 ```
-Developed by:BOJA RAJA G RegisterNumber:25015352
-*/
+Developed by:BOJA RAJA G 
+RegisterNumber:212225230036
+
 
 **RTL LOGIC FOR FLIPFLOPS**
 <img width="1920" height="1020" alt="Screenshot 2025-10-07 181701" src="https://github.com/user-attachments/assets/1fd9527d-6bc2-4d3c-8981-ae5063badafa" />
